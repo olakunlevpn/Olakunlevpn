@@ -18,12 +18,12 @@ I'm a Web Developer helping others become one too.
 [![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/olakunle_vpn/)
 
 ### Latest Posts / Projects
-<!-- BLOG-POST-LIST:START 
-- [Use Google like a pro](https://markodenic.com/use-google-like-a-pro/)
-- [CSS Generators](https://markodenic.com/css-generators/)
-- [Technical interview resources](https://markodenic.com/resources-to-crush-the-technical-interview/)
-- [50 free tools and resources (Part 2)](https://markodenic.com/50-free-tools-and-resources-part-2/)
-- [50 free tools and resources](https://markodenic.com/50-free-tools-and-resources/)
-BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [A Gladepay SDK written in PHP](https://github.com/olakunlevpn/gladepaysdk-php)
+- [PonziPedia-V1.5](hhttps://github.com/olakunlevpn/PonziPedia-V1.5)
+- [Nigeria-Bank-Account-Number-API](https://github.com/olakunlevpn/Nigeria-Bank-Account-Number-API)
+- [MiningPedia - Advanced bitcoin mining script ](https://github.com/olakunlevpn/MiningPedia)
+- [Multi-Coin Crypto-Payment Gateway](https://codecanyon.net/item/multicoin-cryptopayment-gateway/26069497)
+<-- BLOG-POST-LIST:END -->
 
 
