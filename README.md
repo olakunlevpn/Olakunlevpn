@@ -22,7 +22,7 @@ I'm a Web Developer helping others become one too.
 - [A Gladepay SDK written in PHP](https://github.com/olakunlevpn/gladepaysdk-php)
 - [PonziPedia-V1.5](https://github.com/olakunlevpn/PonziPedia-V1.5)
 - [Nigeria-Bank-Account-Number-API](https://github.com/olakunlevpn/Nigeria-Bank-Account-Number-API)
-- [MiningPedia - Advanced bitcoin mining script ](https://github.com/olakunlevpn/MiningPedia)
+- [MiningPedia - Advanced Bitcoin Mining Platform ](https://github.com/olakunlevpn/MiningPedia)
 - [Multi-Coin Crypto-Payment Gateway](https://codecanyon.net/item/multicoin-cryptopayment-gateway/26069497)
 <!-- BLOG-POST-LIST:END -->
 
