@@ -12,7 +12,7 @@ I'm a Web Developer helping others become one too.
 ![Marko Denic's Github Stats](https://github-readme-stats.vercel.app/api?username=olakunlevpn&theme=dark)
 
 ### Top Skills 
-[![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+[![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
 
 ### Let's Connect 🔗
 
