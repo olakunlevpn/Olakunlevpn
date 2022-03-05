@@ -12,7 +12,7 @@ I'm a Web Developer helping others become one too.
 ![Marko Denic's Github Stats](https://github-readme-stats.vercel.app/api?username=olakunlevpn&theme=dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olakunlevpn&layout=compact)](https://maylancer.org)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olakunlevpn&langs_count=8&layout=compact)](https://maylancer.org)
 
 ### Let's Connect 🔗
 
