@@ -9,7 +9,7 @@ I'm a Web Developer helping others become one too.
 
 ## ⚡ Github Stats
 
-![Marko Denic's Github Stats](https://github-readme-stats.vercel.app/api?username=olakunlevpn&theme=dark)
+![Marko Denic's Github Stats](https://github-readme-stats.vercel.app/api?username=olakunlevpn&theme=moltack)
 
 ### Let's Connect 🔗
 
