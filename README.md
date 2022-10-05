@@ -3,7 +3,7 @@
 [![](https://komarev.com/ghpvc/?username=olakunlevpn&color=blue&label=Profile%20Views)](https://github.com/olakunlevpn/Olakunlevpn)
 [![](https://img.shields.io/github/followers/olakunlevpn?label=GitHub%20Followers)](https://github.com/olakunlevpn)
 
-# <h2> Hi! <img src="https://emojis.slackmojis.com/emojis/images/1490885301/1973/mario_luigi_dance.gif?1490885301" width="30"/> I'm [Olakunlevpn](https://maylancer.org) 💻
+# <h2><img src="https://emojis.slackmojis.com/emojis/images/1490885301/1973/mario_luigi_dance.gif?1490885301" width="30"/> Hey, I'm [Olakunlevpn](https://maylancer.org) 💻
 
 I'm a Web Developer helping others become one too.
 
