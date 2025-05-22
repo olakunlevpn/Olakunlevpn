@@ -31,6 +31,7 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Posts / Projects
 <!-- BLOG-POST-LIST:START -->
+- [Xenforo Addon Post Thread Limit Daily](https://github.com/olakunlevpn/Xenforo-Post-Thread-Limit-Daily)
 - [Wail Vintage Toast Alert](https://github.com/olakunlevpn/wail-vintage-toast-alert)
 - [Job-System-Addon-for-XenForo](https://github.com/olakunlevpn/Job-System-Addon-for-XenForo)
 - [php-helpers](https://github.com/olakunlevpn/php-helpers)
