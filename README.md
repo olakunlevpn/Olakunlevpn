@@ -31,7 +31,7 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Posts / Projects
 <!-- BLOG-POST-LIST:START -->
-
+- [Advanced PHP Captcha](https://github.com/olakunlevpn/phpcapcha)
 - [Laravel Installer Wizzard](https://github.com/olakunlevpn/laravel-installer)
 - [Flat CMS](https://github.com/maylancerdev/flat-cms)
 - [ImagePicker](https://github.com/olakunlevpn/imagepicker)
