@@ -50,3 +50,15 @@ I'm a Web Developer helping others become one too.
 <!-- BLOG-POST-LIST:END -->
 
 
+ ### Agent Skills                                                                                                       
+  <!-- AGENT-SKILLS:START -->                                                                                                     
+  - [Clean Code Skills (Robert C. Martin)](https://github.com/olakunlevpn/olakunlevpn-clean-code-skills)                            
+  - [Clean Project Export Skills](https://github.com/olakunlevpn/olakunlevpn-clean-export-skills)                                   
+  - [Laravel Coding Standards Skills](https://github.com/olakunlevpn/olakunlevpn-laravel-skills)                                    
+  - [Filament PHP v5 Skills](https://github.com/olakunlevpn/olakunlevpn-filament-skills)                                            
+  - [Git Workflow Standards Skills](https://github.com/olakunlevpn/olakunlevpn-git-skills)                                          
+  - [Laravel Deployment Skills](https://github.com/olakunlevpn/olakunlevpn-deployment-skills)                                       
+  - [React & Next.js Skills](https://github.com/olakunlevpn/olakunlevpn-react-skills)                                               
+  - [Design-First Frontend Skills](https://github.com/olakunlevpn/olakunlevpn-frontend-first-skills)                                
+  <!-- AGENT-SKILLS:END -->  
+
