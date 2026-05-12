@@ -51,7 +51,8 @@ I'm a Web Developer helping others become one too.
 
 
  ### Agent Skills                                                                                                       
-  <!-- AGENT-SKILLS:START -->                                                                                                  
+  <!-- AGENT-SKILLS:START -->  
+  - [Artifact Skills](https://github.com/olakunlevpn/olakunlevpn-artifact-skills)
   - [Clean Project Export Skills](https://github.com/olakunlevpn/olakunlevpn-clean-export-skills)                                   
   - [Laravel Coding Standards Skills](https://github.com/olakunlevpn/olakunlevpn-laravel-skills)                                    
   - [Filament PHP v5 Skills](https://github.com/olakunlevpn/olakunlevpn-filament-skills)                                            
