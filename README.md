@@ -46,8 +46,12 @@ I'm a Web Developer helping others become one too.
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/nwgqfk)
 
 
-### Latest Posts / Projects
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to the blog](https://olakunlevpn.github.io/2026/07/08/welcome-to-the-blog.html)
+<!-- BLOG-POST-LIST:END -->
+
+### Featured Projects
 - [Advanced PHP Captcha](https://github.com/olakunlevpn/phpcapcha)
 - [Laravel Installer Wizzard](https://github.com/olakunlevpn/laravel-installer)
 - [Flat CMS](https://github.com/maylancerdev/flat-cms)
@@ -64,7 +68,6 @@ I'm a Web Developer helping others become one too.
 - [Nigeria-Bank-Account-Number-API](https://github.com/olakunlevpn/Nigeria-Bank-Account-Number-API)
 - [MiningPedia - Advanced Bitcoin Mining Platform ](https://github.com/olakunlevpn/MiningPedia)
 - [Multi-Coin Crypto-Payment Gateway](https://codecanyon.net/item/multicoin-cryptopayment-gateway/26069497)
-<!-- BLOG-POST-LIST:END -->
 
 
  ### Agent Skills                                                                                                       
