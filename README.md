@@ -1,5 +1,7 @@
 ![Repository Banner](banner.png)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=olakunlevpn.Olakunlevpn)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![](https://komarev.com/ghpvc/?username=olakunlevpn&color=blue&label=Profile%20Views)](https://github.com/olakunlevpn/Olakunlevpn)
 [![](https://img.shields.io/github/followers/olakunlevpn?label=GitHub%20Followers)](https://github.com/olakunlevpn)
 
