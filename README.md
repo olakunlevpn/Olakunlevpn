@@ -60,5 +60,9 @@ I'm a Web Developer helping others become one too.
   - [Laravel Deployment Skills](https://github.com/olakunlevpn/olakunlevpn-deployment-skills)                                       
   - [React & Next.js Skills](https://github.com/olakunlevpn/olakunlevpn-react-skills)                                               
   - [Design-First Frontend Skills](https://github.com/olakunlevpn/olakunlevpn-frontend-first-skills)                                
+  - [Meta-Cognitive Verification Skills](https://github.com/olakunlevpn/olakunlevpn-meta-cognitive-verification)
+  - [Root-Cause Discipline Skills](https://github.com/olakunlevpn/olakunlevpn-root-cause-skills)
+  - [Meta-Verify Skills](https://github.com/olakunlevpn/olakunlevpn-meta-verify)
+  - [Human Writing Skills](https://github.com/olakunlevpn/olakunlevpn-human-writing)
   <!-- AGENT-SKILLS:END -->  
 
