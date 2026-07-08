@@ -22,6 +22,22 @@ I'm a Web Developer helping others become one too.
 [![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/olakunlevpn)
 [![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://github.com/olakunlevpn)
 
+### Cloud Services ☁️
+[![](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/olakunlevpn)
+[![](https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/olakunlevpn)
+[![](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/olakunlevpn)
+[![](https://img.shields.io/badge/API_Gateway-FF9900?style=for-the-badge&logo=amazon-api-gateway&logoColor=white)](https://github.com/olakunlevpn)
+[![](https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://github.com/olakunlevpn)
+[![](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)](https://github.com/olakunlevpn)
+[![](https://img.shields.io/badge/ECS_Fargate-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)](https://github.com/olakunlevpn)
+[![](https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazon-sqs&logoColor=white)](https://github.com/olakunlevpn)
+[![](https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazon-sns&logoColor=white)](https://github.com/olakunlevpn)
+[![](https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://github.com/olakunlevpn)
+[![](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazon-iam&logoColor=white)](https://github.com/olakunlevpn)
+[![](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazon-vpc&logoColor=white)](https://github.com/olakunlevpn)
+[![](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)](https://github.com/olakunlevpn)
+[![](https://img.shields.io/badge/X--Ray-FF9900?style=for-the-badge&logo=amazon-xray&logoColor=white)](https://github.com/olakunlevpn)
+
 ### Let's Connect 🔗
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/olakunlevpn/)
