@@ -48,12 +48,12 @@ I'm a Web Developer helping others become one too.
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ten rules for software that doesn&#39;t fall over](https://olakunlevpn.github.io/2026/07/09/scaling-discipline.html)
 - [Making AI write like a person](https://olakunlevpn.github.io/2026/07/08/human-writing.html)
 - [One skill that gates done on evidence](https://olakunlevpn.github.io/2026/07/08/meta-verify.html)
 - [Prove the bug before you touch the code](https://olakunlevpn.github.io/2026/07/08/root-cause-skills.html)
 - [Seven reviewers on your build, none of them optimists](https://olakunlevpn.github.io/2026/07/08/meta-cognitive-verification.html)
 - [No page gets built without a design](https://olakunlevpn.github.io/2026/07/08/frontend-first-skills.html)
-- [React standards so components stop fighting each other](https://olakunlevpn.github.io/2026/07/08/react-skills.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Featured Projects
