@@ -8,9 +8,20 @@
 
 I'm a Web Developer helping others become one too.
 
+<!-- METRICS:START -->
+> 🛠️ **22 Agent Skills** &nbsp;•&nbsp; 📦 **119 Public Repositories** &nbsp;•&nbsp; ⭐ **196 Stars Across Projects** &nbsp;•&nbsp; 👥 **74 Followers**
+<!-- METRICS:END -->
+
 ## ⚡ Github Stats
 
 ![Olakunlevpn's Github Stats](https://github-readme-stats.vercel.app/api?username=olakunlevpn&theme=dark)
+
+### 💡 Architecture Principle of the Day
+<!-- PRINCIPLE-OF-THE-DAY:START -->
+> *"State flows down, events flow up. Keep components pure and isolate side effects to maintainable hooks."*
+>
+> — **[React & Next.js Skills](https://github.com/olakunlevpn/olakunlevpn-react-skills)**
+<!-- PRINCIPLE-OF-THE-DAY:END -->
 
 ### Top Skills 
 [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/olakunlevpn)
@@ -59,6 +70,15 @@ I'm a Web Developer helping others become one too.
 - [One skill that gates done on evidence](https://olakunlevpn.github.io/2026/07/08/meta-verify.html)
 - [Prove the bug before you touch the code](https://olakunlevpn.github.io/2026/07/08/root-cause-skills.html)
 <!-- BLOG-POST-LIST:END -->
+
+### ⚡ Recent Open Source Activity
+<!-- RECENT-ACTIVITY:START -->
+- 🚀 [olakunlevpn.github.io](https://github.com/olakunlevpn/olakunlevpn.github.io) — Technical blog and engineering notes *(today)*
+- 🚀 [olakunlevpn-seam-contract](https://github.com/olakunlevpn/olakunlevpn-seam-contract) — Single source of truth agent skill for wire shapes between client and server. Turn... *(today)*
+- 🚀 [olakunlevpn-safe-bug-fix](https://github.com/olakunlevpn/olakunlevpn-safe-bug-fix) — Disciplined, evidence-based bug-fixing agent skill that maps impact and confines c... *(today)*
+- 🚀 [olakunlevpn-interaction-map](https://github.com/olakunlevpn/olakunlevpn-interaction-map) — Pre-code flow design agent skill. Designs interaction flows as exhaustive lists an... *(today)*
+- 🚀 [olakunlevpn-flow-soundness](https://github.com/olakunlevpn/olakunlevpn-flow-soundness) — Regression test generation agent skill. Turns working flows into committed tests w... *(today)*
+<!-- RECENT-ACTIVITY:END -->
 
 ### Featured Projects
 - [Advanced PHP Captcha](https://github.com/olakunlevpn/phpcapcha)

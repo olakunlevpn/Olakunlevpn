@@ -25,19 +25,19 @@ jobs:
       - name: Pull latest changes
         run: git pull origin main
 
-      - name: Update Agent Skills in README
+      - name: Update profile dynamic sections in README
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 .github/scripts/update_skills.py
 
-      - name: Commit and push if skills changed
+      - name: Commit and push if profile README changed
         run: |
           git config user.name "Olakunlevpn"
           git config user.email "olakunlevpn@live.com"
           git add README.md
           if ! git diff --staged --quiet; then
-            git commit -m "docs: update agent skills list in readme"
+            git commit -m "docs: sync dynamic metrics, activity, principles, and skills in readme"
             git push origin main
           else
-            echo "No changes to agent skills."
+            echo "No changes to profile README."
           fi
