@@ -80,18 +80,28 @@ I'm a Web Developer helping others become one too.
 
 
  ### Agent Skills                                                                                                       
-  <!-- AGENT-SKILLS:START -->  
+  <!-- AGENT-SKILLS:START -->
   - [Artifact Skills](https://github.com/olakunlevpn/olakunlevpn-artifact-skills)
-  - [Clean Project Export Skills](https://github.com/olakunlevpn/olakunlevpn-clean-export-skills)                                   
-  - [Laravel Coding Standards Skills](https://github.com/olakunlevpn/olakunlevpn-laravel-skills)                                    
-  - [Filament PHP v5 Skills](https://github.com/olakunlevpn/olakunlevpn-filament-skills)                                            
-  - [Git Workflow Standards Skills](https://github.com/olakunlevpn/olakunlevpn-git-skills)                                          
-  - [Laravel Deployment Skills](https://github.com/olakunlevpn/olakunlevpn-deployment-skills)                                       
-  - [React & Next.js Skills](https://github.com/olakunlevpn/olakunlevpn-react-skills)                                               
-  - [Design-First Frontend Skills](https://github.com/olakunlevpn/olakunlevpn-frontend-first-skills)                                
-  - [Meta-Cognitive Verification Skills](https://github.com/olakunlevpn/olakunlevpn-meta-cognitive-verification)
-  - [Root-Cause Discipline Skills](https://github.com/olakunlevpn/olakunlevpn-root-cause-skills)
-  - [Meta-Verify Skills](https://github.com/olakunlevpn/olakunlevpn-meta-verify)
+  - [Blog Publishing Skills](https://github.com/olakunlevpn/olakunlevpn-blog-publishing)
+  - [Clean Project Export Skills](https://github.com/olakunlevpn/olakunlevpn-clean-export-skills)
+  - [Design-First Frontend Skills](https://github.com/olakunlevpn/olakunlevpn-frontend-first-skills)
+  - [Diataxis Framework Skills](https://github.com/olakunlevpn/olakunlevpn-diataxis-framework)
+  - [Filament PHP v5 Skills](https://github.com/olakunlevpn/olakunlevpn-filament-skills)
+  - [Flow Check Skills](https://github.com/olakunlevpn/olakunlevpn-flow-check)
+  - [Flow Soundness Skills](https://github.com/olakunlevpn/olakunlevpn-flow-soundness)
+  - [Framework First Skills](https://github.com/olakunlevpn/olakunlevpn-framework-first)
+  - [Git Workflow Standards Skills](https://github.com/olakunlevpn/olakunlevpn-git-skills)
   - [Human Writing Skills](https://github.com/olakunlevpn/olakunlevpn-human-writing)
+  - [Interaction Map Skills](https://github.com/olakunlevpn/olakunlevpn-interaction-map)
+  - [Laravel Coding Standards Skills](https://github.com/olakunlevpn/olakunlevpn-laravel-skills)
+  - [Laravel Deployment Skills](https://github.com/olakunlevpn/olakunlevpn-deployment-skills)
+  - [Local Source of Truth Skills](https://github.com/olakunlevpn/olakunlevpn-local-source-of-truth)
+  - [Meta-Cognitive Verification Skills](https://github.com/olakunlevpn/olakunlevpn-meta-cognitive-verification)
+  - [Meta-Verify Skills](https://github.com/olakunlevpn/olakunlevpn-meta-verify)
+  - [React & Next.js Skills](https://github.com/olakunlevpn/olakunlevpn-react-skills)
+  - [Root-Cause Discipline Skills](https://github.com/olakunlevpn/olakunlevpn-root-cause-skills)
+  - [Safe Bug Fix Skills](https://github.com/olakunlevpn/olakunlevpn-safe-bug-fix)
+  - [Scaling Discipline Skills](https://github.com/olakunlevpn/olakunlevpn-scaling-discipline)
+  - [Seam Contract Skills](https://github.com/olakunlevpn/olakunlevpn-seam-contract)
   <!-- AGENT-SKILLS:END -->  
 
