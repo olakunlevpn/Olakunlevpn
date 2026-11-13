@@ -16,7 +16,7 @@ I'm a Web Developer helping others become one too.
 
 ## ⚡ Github Stats
 
-![Olakunlevpn's Github Stats](https://github-readme-stats.vercel.app/api?username=olakunlevpn&theme=dark)
+![Olakunlevpn's Github Stats](https://github-stats-extended.vercel.app/api?username=olakunlevpn&theme=dark)
 
 ### 💡 Architecture Principle of the Day
 <!-- PRINCIPLE-OF-THE-DAY:START -->
