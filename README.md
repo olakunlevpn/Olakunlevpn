@@ -4,13 +4,15 @@
 [![](https://komarev.com/ghpvc/?username=olakunlevpn&color=blue&label=Profile%20Views)](https://github.com/olakunlevpn/Olakunlevpn)
 [![](https://img.shields.io/github/followers/olakunlevpn?label=GitHub%20Followers)](https://github.com/olakunlevpn)
 
-# <h2><img src="https://emojis.slackmojis.com/emojis/images/1490885301/1973/mario_luigi_dance.gif?1490885301" width="30"/> Hey, I'm [Olakunlevpn](https://olakunle.ng) 💻
-
-I'm a Web Developer helping others become one too.
-
 <!-- METRICS:START -->
 > 🛠️ **22 Agent Skills** &nbsp;•&nbsp; 📦 **119 Public Repositories** &nbsp;•&nbsp; ⭐ **196 Stars Across Projects** &nbsp;•&nbsp; 👥 **74 Followers**
 <!-- METRICS:END -->
+
+<br/>
+
+# <h2><img src="https://emojis.slackmojis.com/emojis/images/1490885301/1973/mario_luigi_dance.gif?1490885301" width="30"/> Hey, I'm [Olakunlevpn](https://olakunle.ng) 💻
+
+I'm a Web Developer helping others become one too.
 
 ## ⚡ Github Stats
 
