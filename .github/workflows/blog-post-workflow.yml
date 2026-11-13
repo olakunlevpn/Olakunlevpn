@@ -19,4 +19,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://olakunlevpn.github.io/feed.xml"
-          max_post_count: 6
+          max_post_count: 10
