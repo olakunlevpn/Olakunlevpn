@@ -12,7 +12,7 @@
 
 # <h2><img src="https://emojis.slackmojis.com/emojis/images/1490885301/1973/mario_luigi_dance.gif?1490885301" width="30"/> Hey, I'm [Olakunlevpn](https://olakunle.ng) 💻
 
-I'm a Web Developer helping others become one too.
+I'm a Software Engineer helping others become one too.
 
 ## ⚡ Github Stats
 
