@@ -9,30 +9,7 @@ EXCLUDED = {
     'olakunlevpn-claude-commands',
 }
 
-TITLE_MAP = {
-    'olakunlevpn-artifact-skills': 'Artifact Skills',
-    'olakunlevpn-clean-export-skills': 'Clean Project Export Skills',
-    'olakunlevpn-laravel-skills': 'Laravel Coding Standards Skills',
-    'olakunlevpn-filament-skills': 'Filament PHP v5 Skills',
-    'olakunlevpn-git-skills': 'Git Workflow Standards Skills',
-    'olakunlevpn-deployment-skills': 'Laravel Deployment Skills',
-    'olakunlevpn-react-skills': 'React & Next.js Skills',
-    'olakunlevpn-frontend-first-skills': 'Design-First Frontend Skills',
-    'olakunlevpn-meta-cognitive-verification': 'Meta-Cognitive Verification Skills',
-    'olakunlevpn-root-cause-skills': 'Root-Cause Discipline Skills',
-    'olakunlevpn-meta-verify': 'Meta-Verify Skills',
-    'olakunlevpn-human-writing': 'Human Writing Skills',
-    'olakunlevpn-scaling-discipline': 'Scaling Discipline Skills',
-    'olakunlevpn-diataxis-framework': 'Diataxis Framework Skills',
-    'olakunlevpn-flow-check': 'Flow Check Skills',
-    'olakunlevpn-flow-soundness': 'Flow Soundness Skills',
-    'olakunlevpn-interaction-map': 'Interaction Map Skills',
-    'olakunlevpn-safe-bug-fix': 'Safe Bug Fix Skills',
-    'olakunlevpn-seam-contract': 'Seam Contract Skills',
-    'olakunlevpn-framework-first': 'Framework First Skills',
-    'olakunlevpn-local-source-of-truth': 'Local Source of Truth Skills',
-    'olakunlevpn-blog-publishing': 'Blog Publishing Skills',
-}
+ACRONYMS = {'php': 'PHP', 'css': 'CSS', 'api': 'API', 'ui': 'UI', 'qa': 'QA', 'js': 'JS', 'v5': 'v5', 'aws': 'AWS'}
 
 PRINCIPLES = [
     {
@@ -138,11 +115,19 @@ PRINCIPLES = [
 ]
 
 def format_title(name: str) -> str:
-    if name in TITLE_MAP:
-        return TITLE_MAP[name]
     clean = name.replace('olakunlevpn-', '')
-    words = [w.capitalize() for w in clean.split('-') if w.lower() != 'skills']
-    return ' '.join(words) + ' Skills'
+    parts = clean.split('-')
+    words = [p for p in parts if p.lower() not in ('skill', 'skills')]
+    formatted_words = []
+    for w in words:
+        low = w.lower()
+        if low in ACRONYMS:
+            formatted_words.append(ACRONYMS[low])
+        elif low == 'nextjs':
+            formatted_words.append('Next.js')
+        else:
+            formatted_words.append(w.capitalize())
+    return ' '.join(formatted_words) + ' Skills'
 
 def get_headers():
     token = os.environ.get('GH_TOKEN') or os.environ.get('GITHUB_TOKEN')
