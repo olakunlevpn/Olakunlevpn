@@ -5,7 +5,7 @@
 [![](https://img.shields.io/github/followers/olakunlevpn?label=GitHub%20Followers)](https://github.com/olakunlevpn)
 
 <!-- METRICS:START -->
-> 🛠️ **22 Agent Skills** &nbsp;•&nbsp; 📦 **119 Public Repositories** &nbsp;•&nbsp; ⭐ **196 Stars Across Projects** &nbsp;•&nbsp; 👥 **74 Followers**
+> 🛠️ **23 Agent Skills** &nbsp;•&nbsp; 📦 **120 Public Repositories** &nbsp;•&nbsp; ⭐ **196 Stars Across Projects** &nbsp;•&nbsp; 👥 **74 Followers**
 <!-- METRICS:END -->
 
 <br/>
@@ -20,9 +20,9 @@ I'm a Software Engineer helping others become one too.
 
 ### 💡 Architecture Principle of the Day
 <!-- PRINCIPLE-OF-THE-DAY:START -->
-> *"State flows down, events flow up. Keep components pure and isolate side effects to maintainable hooks."*
+> *"Build design-first. Fix layout, typography, and spacing contracts before attaching complex state machines."*
 >
-> — **[React & Next.js Skills](https://github.com/olakunlevpn/olakunlevpn-react-skills)**
+> — **[Design-First Frontend Skills](https://github.com/olakunlevpn/olakunlevpn-frontend-first-skills)**
 <!-- PRINCIPLE-OF-THE-DAY:END -->
 
 ### Top Skills 
@@ -75,11 +75,11 @@ I'm a Software Engineer helping others become one too.
 
 ### ⚡ Recent Open Source Activity
 <!-- RECENT-ACTIVITY:START -->
+- 🚀 [olakunlevpn-agentic-web-webmcp](https://github.com/olakunlevpn/olakunlevpn-agentic-web-webmcp) — Full compliance suite for Google Chrome Lighthouse Agentic Browsing: WebMCP tools,... *(today)*
 - 🚀 [olakunlevpn.github.io](https://github.com/olakunlevpn/olakunlevpn.github.io) — Technical blog and engineering notes *(today)*
 - 🚀 [olakunlevpn-seam-contract](https://github.com/olakunlevpn/olakunlevpn-seam-contract) — Single source of truth agent skill for wire shapes between client and server. Turn... *(today)*
 - 🚀 [olakunlevpn-safe-bug-fix](https://github.com/olakunlevpn/olakunlevpn-safe-bug-fix) — Disciplined, evidence-based bug-fixing agent skill that maps impact and confines c... *(today)*
 - 🚀 [olakunlevpn-interaction-map](https://github.com/olakunlevpn/olakunlevpn-interaction-map) — Pre-code flow design agent skill. Designs interaction flows as exhaustive lists an... *(today)*
-- 🚀 [olakunlevpn-flow-soundness](https://github.com/olakunlevpn/olakunlevpn-flow-soundness) — Regression test generation agent skill. Turns working flows into committed tests w... *(today)*
 <!-- RECENT-ACTIVITY:END -->
 
 ### Featured Projects
@@ -103,6 +103,7 @@ I'm a Software Engineer helping others become one too.
 
  ### Agent Skills                                                                                                       
   <!-- AGENT-SKILLS:START -->
+  - [Agentic Web Webmcp Skills](https://github.com/olakunlevpn/olakunlevpn-agentic-web-webmcp)
   - [Artifact Skills](https://github.com/olakunlevpn/olakunlevpn-artifact-skills)
   - [Blog Publishing Skills](https://github.com/olakunlevpn/olakunlevpn-blog-publishing)
   - [Clean Export Skills](https://github.com/olakunlevpn/olakunlevpn-clean-export-skills)
