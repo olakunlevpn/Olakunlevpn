@@ -5,7 +5,7 @@
 [![](https://img.shields.io/github/followers/olakunlevpn?label=GitHub%20Followers)](https://github.com/olakunlevpn)
 
 <!-- METRICS:START -->
-> 🛠️ **23 Agent Skills** &nbsp;•&nbsp; 📦 **120 Public Repositories** &nbsp;•&nbsp; ⭐ **196 Stars Across Projects** &nbsp;•&nbsp; 👥 **74 Followers**
+> 🛠️ **25 Agent Skills** &nbsp;•&nbsp; 📦 **123 Public Repositories** &nbsp;•&nbsp; ⭐ **196 Stars Across Projects** &nbsp;•&nbsp; 👥 **74 Followers**
 <!-- METRICS:END -->
 
 <br/>
@@ -20,9 +20,9 @@ I'm a Software Engineer helping others become one too.
 
 ### 💡 Architecture Principle of the Day
 <!-- PRINCIPLE-OF-THE-DAY:START -->
-> *"Verify features from 7 perspectives: contract, state, error, security, performance, accessibility, and resilience."*
+> *"When different forms of documentation blur together, every single form gets worse. Keep tutorials, how-to guides, reference, and explanation strictly separated."*
 >
-> — **[Meta-Cognitive Verification Skills](https://github.com/olakunlevpn/olakunlevpn-meta-cognitive-verification)**
+> — **[Diataxis Framework Skills](https://github.com/olakunlevpn/olakunlevpn-diataxis-framework)**
 <!-- PRINCIPLE-OF-THE-DAY:END -->
 
 ### Top Skills 
@@ -75,11 +75,11 @@ I'm a Software Engineer helping others become one too.
 
 ### ⚡ Recent Open Source Activity
 <!-- RECENT-ACTIVITY:START -->
-- 🚀 [olakunlevpn-agentic-web-webmcp](https://github.com/olakunlevpn/olakunlevpn-agentic-web-webmcp) — Full compliance suite for Google Chrome Lighthouse Agentic Browsing: WebMCP tools,... *(yesterday)*
-- 🚀 [olakunlevpn.github.io](https://github.com/olakunlevpn/olakunlevpn.github.io) — Technical blog and engineering notes *(yesterday)*
-- 🚀 [olakunlevpn-seam-contract](https://github.com/olakunlevpn/olakunlevpn-seam-contract) — Single source of truth agent skill for wire shapes between client and server. Turn... *(yesterday)*
-- 🚀 [olakunlevpn-safe-bug-fix](https://github.com/olakunlevpn/olakunlevpn-safe-bug-fix) — Disciplined, evidence-based bug-fixing agent skill that maps impact and confines c... *(yesterday)*
-- 🚀 [olakunlevpn-interaction-map](https://github.com/olakunlevpn/olakunlevpn-interaction-map) — Pre-code flow design agent skill. Designs interaction flows as exhaustive lists an... *(yesterday)*
+- 🚀 [olakunlevpn.github.io](https://github.com/olakunlevpn/olakunlevpn.github.io) — Technical blog and engineering notes *(today)*
+- 🚀 [xenforo-large-sql-importer](https://github.com/olakunlevpn/xenforo-large-sql-importer) — Stream large SQL dumps into MySQL and merge encrypted backup chunks directly in yo... *(today)*
+- 🚀 [large-sql-importer](https://github.com/olakunlevpn/large-sql-importer) — A single PHP file that imports large database dumps without hitting PHP upload lim... *(today)*
+- 🚀 [olakunlevpn-telegram-backup-tor-extension](https://github.com/olakunlevpn/olakunlevpn-telegram-backup-tor-extension) — Tor hidden service companion add-on for Olakunlevpn Telegram Free Cloud Backup on... *(today)*
+- 🚀 [olakunlevpn-telegram-free-cloud-backup](https://github.com/olakunlevpn/olakunlevpn-telegram-free-cloud-backup) — Automated, encrypted, zero-cost XenForo database and file backups using Telegram c... *(today)*
 <!-- RECENT-ACTIVITY:END -->
 
 ### Featured Projects
@@ -126,5 +126,7 @@ I'm a Software Engineer helping others become one too.
   - [Safe Bug Fix Skills](https://github.com/olakunlevpn/olakunlevpn-safe-bug-fix)
   - [Scaling Discipline Skills](https://github.com/olakunlevpn/olakunlevpn-scaling-discipline)
   - [Seam Contract Skills](https://github.com/olakunlevpn/olakunlevpn-seam-contract)
+  - [Telegram Backup Tor Extension Skills](https://github.com/olakunlevpn/olakunlevpn-telegram-backup-tor-extension)
+  - [Telegram Free Cloud Backup Skills](https://github.com/olakunlevpn/olakunlevpn-telegram-free-cloud-backup)
   <!-- AGENT-SKILLS:END -->  
 
