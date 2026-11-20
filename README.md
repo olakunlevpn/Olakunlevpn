@@ -61,6 +61,7 @@ I'm a Software Engineer helping others become one too.
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Replacing Linktree with a single text file and GitHub Pages](https://olakunlevpn.github.io/2026/11/19/replacing-linktree-with-a-single-text-file-and-github-pages.html)
 - [Free XenForo backups to Telegram and the missing restore button](https://olakunlevpn.github.io/2026/11/16/free-xenforo-backups-to-telegram-and-large-sql-restore.html)
 - [Why technical documentation turns terrible and how to fix it](https://olakunlevpn.github.io/2026/11/13/diataxis-framework.html)
 - [Six skills so your features actually connect](https://olakunlevpn.github.io/2026/11/13/six-skills-so-features-connect.html)
@@ -70,7 +71,6 @@ I'm a Software Engineer helping others become one too.
 - [Stop fixing bugs straight on the server](https://olakunlevpn.github.io/2026/07/10/local-source-of-truth.html)
 - [Ten rules for software that doesn&#39;t fall over](https://olakunlevpn.github.io/2026/07/09/scaling-discipline.html)
 - [Making AI write like a person](https://olakunlevpn.github.io/2026/07/08/human-writing.html)
-- [One skill that gates done on evidence](https://olakunlevpn.github.io/2026/07/08/meta-verify.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Recent Open Source Activity
