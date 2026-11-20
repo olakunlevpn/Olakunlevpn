@@ -5,7 +5,7 @@
 [![](https://img.shields.io/github/followers/olakunlevpn?label=GitHub%20Followers)](https://github.com/olakunlevpn)
 
 <!-- METRICS:START -->
-> 🛠️ **25 Agent Skills** &nbsp;•&nbsp; 📦 **124 Public Repositories** &nbsp;•&nbsp; ⭐ **196 Stars Across Projects** &nbsp;•&nbsp; 👥 **74 Followers**
+> 🛠️ **25 Agent Skills** &nbsp;•&nbsp; 📦 **126 Public Repositories** &nbsp;•&nbsp; ⭐ **196 Stars Across Projects** &nbsp;•&nbsp; 👥 **74 Followers**
 <!-- METRICS:END -->
 
 <br/>
@@ -20,9 +20,9 @@ I'm a Software Engineer helping others become one too.
 
 ### 💡 Architecture Principle of the Day
 <!-- PRINCIPLE-OF-THE-DAY:START -->
-> *"A passing test is meaningless if it cannot fail when the code is broken. Mutate the code to prove your test actually catches the regression."*
+> *"You cannot verify what you haven't listed. Map user interactions and server links exhaustively before declaring a feature wired."*
 >
-> — **[Flow Soundness Skills](https://github.com/olakunlevpn/olakunlevpn-flow-soundness)**
+> — **[Flow Check Skills](https://github.com/olakunlevpn/olakunlevpn-flow-check)**
 <!-- PRINCIPLE-OF-THE-DAY:END -->
 
 ### Top Skills 
@@ -75,11 +75,11 @@ I'm a Software Engineer helping others become one too.
 
 ### ⚡ Recent Open Source Activity
 <!-- RECENT-ACTIVITY:START -->
-- 🚀 [xenforo-large-sql-importer](https://github.com/olakunlevpn/xenforo-large-sql-importer) — Stream large SQL dumps into MySQL and merge encrypted backup chunks directly in yo... *(2d ago)*
-- 🚀 [xenforo-user-spaces](https://github.com/olakunlevpn/xenforo-user-spaces) — Open source project *(2d ago)*
-- 🚀 [olakunlevpn.github.io](https://github.com/olakunlevpn/olakunlevpn.github.io) — Technical blog and engineering notes *(3d ago)*
-- 🚀 [large-sql-importer](https://github.com/olakunlevpn/large-sql-importer) — A single PHP file that imports large database dumps without hitting PHP upload lim... *(3d ago)*
-- 🚀 [olakunlevpn-telegram-backup-tor-extension](https://github.com/olakunlevpn/olakunlevpn-telegram-backup-tor-extension) — Tor hidden service companion add-on for Olakunlevpn Telegram Free Cloud Backup on... *(3d ago)*
+- 🚀 [olakunlevpn.github.io](https://github.com/olakunlevpn/olakunlevpn.github.io) — Technical blog and engineering notes *(today)*
+- 🚀 [linkprofile](https://github.com/olakunlevpn/linkprofile) — Turn a profile file into a personal link-in-bio page on GitHub Pages *(today)*
+- 🚀 [linkprofile-starter](https://github.com/olakunlevpn/linkprofile-starter) — Starter template for linkprofile: a free, self-hosted link-in-bio page on GitHub P... *(today)*
+- 🚀 [xenforo-large-sql-importer](https://github.com/olakunlevpn/xenforo-large-sql-importer) — Stream large SQL dumps into MySQL and merge encrypted backup chunks directly in yo... *(3d ago)*
+- 🚀 [xenforo-user-spaces](https://github.com/olakunlevpn/xenforo-user-spaces) — Open source project *(3d ago)*
 <!-- RECENT-ACTIVITY:END -->
 
 ### Featured Projects
