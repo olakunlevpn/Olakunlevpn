@@ -20,9 +20,9 @@ I'm a Software Engineer helping others become one too.
 
 ### 💡 Architecture Principle of the Day
 <!-- PRINCIPLE-OF-THE-DAY:START -->
-> *"You cannot verify what you haven't listed. Map user interactions and server links exhaustively before declaring a feature wired."*
+> *"Design the interaction flow, empty states, error branches, and wire contract before either side is built. Don't let client and server drift during construction."*
 >
-> — **[Flow Check Skills](https://github.com/olakunlevpn/olakunlevpn-flow-check)**
+> — **[Interaction Map Skills](https://github.com/olakunlevpn/olakunlevpn-interaction-map)**
 <!-- PRINCIPLE-OF-THE-DAY:END -->
 
 ### Top Skills 
@@ -76,10 +76,10 @@ I'm a Software Engineer helping others become one too.
 ### ⚡ Recent Open Source Activity
 <!-- RECENT-ACTIVITY:START -->
 - 🚀 [olakunlevpn.github.io](https://github.com/olakunlevpn/olakunlevpn.github.io) — Technical blog and engineering notes *(today)*
-- 🚀 [linkprofile](https://github.com/olakunlevpn/linkprofile) — Turn a profile file into a personal link-in-bio page on GitHub Pages *(today)*
-- 🚀 [linkprofile-starter](https://github.com/olakunlevpn/linkprofile-starter) — Starter template for linkprofile: a free, self-hosted link-in-bio page on GitHub P... *(today)*
-- 🚀 [xenforo-large-sql-importer](https://github.com/olakunlevpn/xenforo-large-sql-importer) — Stream large SQL dumps into MySQL and merge encrypted backup chunks directly in yo... *(3d ago)*
-- 🚀 [xenforo-user-spaces](https://github.com/olakunlevpn/xenforo-user-spaces) — Open source project *(3d ago)*
+- 🚀 [linkprofile](https://github.com/olakunlevpn/linkprofile) — Turn a profile file into a personal link-in-bio page on GitHub Pages *(yesterday)*
+- 🚀 [linkprofile-starter](https://github.com/olakunlevpn/linkprofile-starter) — Starter template for linkprofile: a free, self-hosted link-in-bio page on GitHub P... *(yesterday)*
+- 🚀 [xenforo-large-sql-importer](https://github.com/olakunlevpn/xenforo-large-sql-importer) — Stream large SQL dumps into MySQL and merge encrypted backup chunks directly in yo... *(4d ago)*
+- 🚀 [xenforo-user-spaces](https://github.com/olakunlevpn/xenforo-user-spaces) — Open source project *(4d ago)*
 <!-- RECENT-ACTIVITY:END -->
 
 ### Featured Projects
