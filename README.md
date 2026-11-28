@@ -20,9 +20,9 @@ I'm a Software Engineer helping others become one too.
 
 ### 💡 Architecture Principle of the Day
 <!-- PRINCIPLE-OF-THE-DAY:START -->
-> *"Good writing sounds like a thoughtful human with strong opinions. Strip throat-clearing, bold-spam, and bland filler so the prose reads genuine."*
+> *"Gate 'done' on verifiable evidence, not confidence. An unrun command or uninspected link is never reported clean."*
 >
-> — **[Human Writing Skills](https://github.com/olakunlevpn/olakunlevpn-human-writing)**
+> — **[Meta-Verify Skills](https://github.com/olakunlevpn/olakunlevpn-meta-verify)**
 <!-- PRINCIPLE-OF-THE-DAY:END -->
 
 ### Top Skills 
@@ -75,11 +75,11 @@ I'm a Software Engineer helping others become one too.
 
 ### ⚡ Recent Open Source Activity
 <!-- RECENT-ACTIVITY:START -->
-- 🚀 [olakunlevpn.github.io](https://github.com/olakunlevpn/olakunlevpn.github.io) — Technical blog and engineering notes *(7d ago)*
-- 🚀 [linkprofile](https://github.com/olakunlevpn/linkprofile) — Turn a profile file into a personal link-in-bio page on GitHub Pages *(7d ago)*
-- 🚀 [linkprofile-starter](https://github.com/olakunlevpn/linkprofile-starter) — Starter template for linkprofile: a free, self-hosted link-in-bio page on GitHub P... *(7d ago)*
-- 🚀 [xenforo-large-sql-importer](https://github.com/olakunlevpn/xenforo-large-sql-importer) — Stream large SQL dumps into MySQL and merge encrypted backup chunks directly in yo... *(10d ago)*
-- 🚀 [xenforo-user-spaces](https://github.com/olakunlevpn/xenforo-user-spaces) — Open source project *(10d ago)*
+- 🚀 [olakunlevpn.github.io](https://github.com/olakunlevpn/olakunlevpn.github.io) — Technical blog and engineering notes *(8d ago)*
+- 🚀 [linkprofile](https://github.com/olakunlevpn/linkprofile) — Turn a profile file into a personal link-in-bio page on GitHub Pages *(8d ago)*
+- 🚀 [linkprofile-starter](https://github.com/olakunlevpn/linkprofile-starter) — Starter template for linkprofile: a free, self-hosted link-in-bio page on GitHub P... *(8d ago)*
+- 🚀 [xenforo-large-sql-importer](https://github.com/olakunlevpn/xenforo-large-sql-importer) — Stream large SQL dumps into MySQL and merge encrypted backup chunks directly in yo... *(11d ago)*
+- 🚀 [xenforo-user-spaces](https://github.com/olakunlevpn/xenforo-user-spaces) — Open source project *(11d ago)*
 <!-- RECENT-ACTIVITY:END -->
 
 ### Featured Projects
